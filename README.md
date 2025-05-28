@@ -24,5 +24,19 @@ The primary source of Data used here is Data Sale. csv and this is an open sourc
 - Power Bi (For creating a report)
 - Ms Power Point (For presentation)
 
+### Data Cleaning and Preparation
 
+In the initial phase off the Data Cleaning and preparation, we perform the following action;
+1. Data Loading and inspection
+2. Handling missing variables
+3. Data Cleaning and formatting
 
+### Exploratory Data Analysis
+EDA involved in the exploring of the Data to answer some questions about the Data such as;
+- What is the overall sales trend
+- Which product are top sellers
+- what are the products on peak sales?
+
+### Data Analysis
+
+This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis
