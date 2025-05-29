@@ -48,5 +48,7 @@ WHERE A> 15
 ```
 ### Analysis
 
+![pie chart](https://github.com/user-attachments/assets/fbbd3d18-1058-4083-84cd-d5780f830780)
+
 
 
